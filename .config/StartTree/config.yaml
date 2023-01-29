@@ -1,0 +1,31 @@
+font_size: 22
+theme: pywal
+tree_1:
+  general:
+    youtube: "https://www.youtube.com/"
+    gmail: "https://mail.google.com/"
+  reddit:
+    frontpage: 
+      - "https://www.reddit.com/"
+      - "front page"
+    unixporn: "https://www.reddit.com/r/unixporn/"
+    linuxmasterrace: "https://www.reddit.com/r/linuxmasterrace/"
+tree_2:
+  wiki:
+    archwiki: 
+      - "https://wiki.archlinux.org/"
+      - "archlinux"
+    gentoo:
+      - "https://wiki.gentoo.org/"
+      - "gentoo"
+    qtile:
+      - "https://docs.qtile.org/en/latest/"
+      - "qtile"
+    lunarvim:
+      - "https://www.lunarvim.org/"
+      - "lunarvim"
+    pywal:
+      - "https://github.com/dylanaraps/pywal/wiki"
+      - "pywal"
+  repos:
+    github: "https://www.github.com/"

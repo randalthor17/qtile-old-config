@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/auhon/.wallpaper/wallpaper3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#081a21",
+        "foreground": "#c1c5c7",
+        "cursor": "#c1c5c7"
+    },
+    "colors": {
+        "color0": "#081a21",
+        "color1": "#20627f",
+        "color2": "#5b7c93",
+        "color3": "#09457f",
+        "color4": "#23517f",
+        "color5": "#375b7f",
+        "color6": "#496381",
+        "color7": "#838c90",
+        "color8": "#455358",
+        "color9": "#2b83aa",
+        "color10": "#7aa6c5",
+        "color11": "#0d5daa",
+        "color12": "#2f6daa",
+        "color13": "#4a7aaa",
+        "color14": "#6284ac",
+        "color15": "#c1c5c7"
+    }
+}
